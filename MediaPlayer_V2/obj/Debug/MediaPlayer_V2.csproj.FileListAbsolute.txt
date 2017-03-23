@@ -1,0 +1,78 @@
+C:\Users\stud\Documents\Expression\Blend 4\Projects\MediaPlayer_V2\MediaPlayer_V2\bin\Debug\MediaPlayer_V2.exe
+C:\Users\stud\Documents\Expression\Blend 4\Projects\MediaPlayer_V2\MediaPlayer_V2\bin\Debug\MediaPlayer_V2.pdb
+C:\Users\stud\Documents\Expression\Blend 4\Projects\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stud\Documents\Expression\Blend 4\Projects\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MainWindow.baml
+C:\Users\stud\Documents\Expression\Blend 4\Projects\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MainWindow.g.cs
+C:\Users\stud\Documents\Expression\Blend 4\Projects\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\App.g.cs
+C:\Users\stud\Documents\Expression\Blend 4\Projects\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2_MarkupCompile.cache
+C:\Users\stud\Documents\Expression\Blend 4\Projects\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.g.resources
+C:\Users\stud\Documents\Expression\Blend 4\Projects\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.exe
+C:\Users\stud\Documents\Expression\Blend 4\Projects\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.pdb
+D:\work\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.exe
+D:\work\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.pdb
+D:\work\MediaPlayer_V2\MediaPlayer_V2\bin\Debug\MediaPlayer_V2.exe
+D:\work\MediaPlayer_V2\MediaPlayer_V2\bin\Debug\MediaPlayer_V2.pdb
+D:\work\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\ResolveAssemblyReference.cache
+D:\work\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MainWindow.baml
+D:\work\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MainWindow.g.cs
+D:\work\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\App.g.cs
+D:\work\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2_MarkupCompile.cache
+D:\work\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.g.resources
+D:\work\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\App.baml
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\bin\Debug\MediaPlayer_V2.exe
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\bin\Debug\MediaPlayer_V2.pdb
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\bin\Debug\taglib-sharp.dll
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\mainstyle.baml
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MainWindow.baml
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\WindowForVideo.baml
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\App.baml
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MainWindow.g.cs
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\WindowForVideo.g.cs
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\App.g.cs
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2_MarkupCompile.cache
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.g.resources
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.exe
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.pdb
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\StylePicker.baml
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\StylePicker.g.cs
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\green_style.baml
+C:\Users\BART\Desktop\MediaPlayer_V2\MediaPlayer_V2\obj\Debug\purple_style.baml
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.exe
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.pdb
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\bin\Debug\MediaPlayer_V2.exe
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\bin\Debug\MediaPlayer_V2.pdb
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\bin\Debug\taglib-sharp.dll
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\green_style.baml
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\mainstyle.baml
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MainWindow.baml
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\purple_style.baml
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\StylePicker.baml
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\WindowForVideo.baml
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\App.baml
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MainWindow.g.cs
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\StylePicker.g.cs
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\WindowForVideo.g.cs
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\App.g.cs
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MediaPlayer_V2_MarkupCompile.cache
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.g.resources
+C:\Users\BART\Desktop\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.csprojResolveAssemblyReference.cache
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.exe
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.pdb
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\bin\Debug\MediaPlayer_V2.exe
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\bin\Debug\MediaPlayer_V2.pdb
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\bin\Debug\taglib-sharp.dll
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.csprojResolveAssemblyReference.cache
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\green_style.baml
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\mainstyle.baml
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MainWindow.baml
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\purple_style.baml
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\StylePicker.baml
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\WindowForVideo.baml
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\App.baml
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MainWindow.g.cs
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\StylePicker.g.cs
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\WindowForVideo.g.cs
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\App.g.cs
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MediaPlayer_V2_MarkupCompile.cache
+E:\Всячина\ШАГОВСКИЕ ПРОЕКТЫ\WPF_Назимко_Артем_18ПС115\MediaPlayer_V2\obj\Debug\MediaPlayer_V2.g.resources

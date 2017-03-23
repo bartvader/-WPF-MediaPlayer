@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPlayer_V2", "MediaPlayer_V2\MediaPlayer_V2.csproj", "{a2023fde-1fc2-40ed-b7c9-b38e190666e8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2023FDE-1FC2-40ED-B7C9-B38E190666E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2023FDE-1FC2-40ED-B7C9-B38E190666E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2023FDE-1FC2-40ED-B7C9-B38E190666E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2023FDE-1FC2-40ED-B7C9-B38E190666E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

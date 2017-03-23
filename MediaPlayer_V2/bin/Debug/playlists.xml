@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Style>green_style.xaml</Style>
+  <Playlist>
+    <Name>New1</Name>
+    <Items>
+      <Item>
+        <Title>Fractured-Only Human Remains</Title>
+        <Artist>VA</Artist>
+        <Lenght>0:5:46</Lenght>
+        <Album>Endzeit Bunkertracks</Album>
+        <Path>E:\Всячина\Music\fractured-only-human-remains_(mp3.cc).mp3</Path>
+      </Item>
+    </Items>
+  </Playlist>
+</Root>

@@ -1,0 +1,60 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="MediaPlayer_V2.MainWindow"
+	x:Name="Window"
+	Title="Player"
+	Width="336.834" Height="604.5" Background="Transparent" AllowsTransparency="True" WindowStyle="None" ResizeMode="CanResizeWithGrip" BorderThickness="2">
+	<Grid x:Name="LayoutRoot" Margin="0,0,0,4">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="0.05*"/>
+			<RowDefinition Height="0.258*"/>
+			<RowDefinition Height="0.066*"/>
+			<RowDefinition Height="0.489*"/>
+			<RowDefinition Height="0.067*"/>
+			<RowDefinition Height="0.07*"/>
+		</Grid.RowDefinitions>
+		<Border BorderBrush="White" MouseDown="MAIN_BORDER_MouseDown" x:Name="MAIN_BORDER" Grid.Row="0" Grid.RowSpan="6" CornerRadius="10,5,5,5" BorderThickness="2" Margin="-6.25,0,8,0">
+
+		
+			<TabPanel/>
+		</Border>
+		<ResizeGrip HorizontalAlignment="Right" Height="0" Grid.Row="5" VerticalAlignment="Bottom" Width="0"/>
+		<Button x:Name="MIN_BTN" Click="MIN_BTN_Click" Grid.Row="0" Width="20" Height="20" Content="_" HorizontalAlignment="Right" Margin="0,5.283,54.993,1.816" FontSize="10.667" d:LayoutOverrides="VerticalAlignment"  />
+		<Button x:Name="MAX_BTN" Click="MAX_BTN_Click" Grid.Row="0" Width="20" Height="20" Content="[]" HorizontalAlignment="Right" Margin="0,5.283,31.663,1.816" d:LayoutOverrides="VerticalAlignment" FontSize="10.667" />
+		<Button x:Name="EXIT_BTN" Click="EXIT_BTN_Click" Grid.Row="0" Width="20" Height="20" Content="x" HorizontalAlignment="Right" Margin="0,5.26,8,1.84"  />
+		<TextBlock x:Name="INFO" Margin="8,3.333,0,0" Grid.Row="1" TextWrapping="Wrap" Text="TextBlock" Background="White" Height="67.093" VerticalAlignment="Top" HorizontalAlignment="Left" Width="307.834"/>
+        <Button x:Name="PLAY" Content="PLAY" HorizontalAlignment="Left" Grid.Row="2" Width="63" Margin="8,0,0,0" Click="PLAY_Click" >
+        	<Button.Background>
+        		<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+        			<GradientStop Color="#FFF3F3F3" Offset="0"/>
+        			<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+        			<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+        			<GradientStop Color="White" Offset="1"/>
+        		</LinearGradientBrush>
+        	</Button.Background>
+        </Button>
+        <Button x:Name="PAUSE" Content="PAUSE"  Grid.Row="2" HorizontalAlignment="Left" Width="63" Margin="75,0,0,0" Click="PAUSE_Click"  />
+        <Button x:Name="STOP" Content="STOP" Grid.Row="2" Margin="143.25,0,0,0" Width="63" Click="STOP_Click" d:LayoutOverrides="Width" HorizontalAlignment="Left"  />
+		<Button x:Name="Add" Content="New Playlist" HorizontalAlignment="Left" Margin="212.167,4.001,0,8" Grid.Row="4" Width="74.333" Click="Add_Click" />
+		<TextBox x:Name="new_playlist_name" Margin="51.181,5.626,0,8" Grid.Row="5" TextWrapping="Wrap" Text="" HorizontalAlignment="Left" Width="260.653" Visibility="Hidden"/>
+        <Button x:Name="OK" Content="ok" HorizontalAlignment="Left" Margin="8,5.626,0,8" Grid.Row="5" Width="31.5" Click="OK_Click" Visibility="Hidden"  />
+        <Button Content="+" Margin="34.82,5.177,0,8" Grid.Row="4" Click="Button_Click" HorizontalAlignment="Left" Width="20.347"  />
+		<DataGrid MouseDown="curr_play_MouseDown" DragDrop.Drop="curr_play_Drop" AllowDrop="True" x:Name="curr_play" Margin="8,67.5,17,18.413" Grid.Row="3"  DragDrop.DragEnter="curr_play_DragEnter"  />
+        <Button x:Name="DELETE_SONG" Click="Button_DELETE_SONG_Click" Content="-" Margin="11.473,5.177,0,8" Grid.Row="4" HorizontalAlignment="Left" Width="20.347" />
+        <ScrollViewer x:Name="scroll" Height="55.5" Margin="8,8,17,0" Grid.Row="3" HorizontalScrollBarVisibility="Hidden" VerticalAlignment="Top" >
+            <ListBox x:Name="list" SelectionChanged="list_SelectionChanged" ></ListBox>
+        </ScrollViewer>
+		<MediaElement MediaEnded="media_MediaEnded" x:Name="media" Visibility="Hidden" LoadedBehavior="Manual" />
+		<Slider ValueChanged="PLAY_POSITION_ValueChanged" Mouse.MouseUp="PLAY_POSITION_MouseUp" IsMoveToPointEnabled="True" Maximum="100" Minimum="0" x:Name="PLAY_POSITION" Margin="4,74.426,0,49.667" Grid.Row="1"  HorizontalAlignment="Left" Width="311.834"/>
+        <Slider IsMoveToPointEnabled="True" Maximum="1" Minimum="0" x:Name="VOLUME" HorizontalAlignment="Left" ValueChanged="VOLUME_ValueChanged" Margin="205.47,119.879,0,12" Grid.Row="1" Width="108.364" />
+		<Label Content="Volume" Height="24.834" Margin="117.796,0,131.364,12" Grid.Row="1" VerticalAlignment="Bottom" Foreground="White"/>
+		<Label x:Name="CURR_POS" Content="00:00:00" HorizontalAlignment="Left" Height="33.667" Margin="8,0,0,12" Grid.Row="1" VerticalAlignment="Bottom" Width="101.333" Foreground="White"/>
+        <Button  x:Name="DELETE_PLAYLIST" Content="Delete Playlist" Margin="126.917,4.001,0,8" Grid.Row="4" Click="DELETE_PLAYLIST_Click" HorizontalAlignment="Left" Width="79.333" />
+        <Button x:Name="STYLE" Click="STYLE_Click" Content="Style" HorizontalAlignment="Left" Margin="5.125,3.875,0,3.179" Width="94.375"  />
+        <Button Click="BACK_Click" x:Name="BACK" Content="&lt;&lt;" HorizontalAlignment="Left" Margin="228.333,0,0,0" Grid.Row="2" Width="43.334"/>
+        <Button Click="FORWARD_Click" x:Name="FORWARD" Content="&gt;&gt;" HorizontalAlignment="Left" Margin="272.5,0,0,0" Grid.Row="2" Width="43.334"/>
+    </Grid>
+	
+</Window>
